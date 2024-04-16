@@ -29,4 +29,4 @@ def test_was_published_recently_with_recent_question(self):
         #is in the future.
         #Para probar los test tengo que escribir en la terminal ( NO EN LA SHELL DE PHYTON)
         #py manage.py test polls
-        
+        #En django podemos hacer testings para las views tmb, pueden ser tanto en la shell como en el mismo .views
